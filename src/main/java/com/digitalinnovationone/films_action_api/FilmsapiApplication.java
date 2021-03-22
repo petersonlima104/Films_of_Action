@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class HerosapiApplication {
+public class FilmsapiApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(HerosapiApplication.class, args);
+		SpringApplication.run(FilmsapiApplication.class, args);
 	}
 
 }
